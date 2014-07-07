@@ -1,0 +1,3 @@
+[submodule "HermesRemote"]
+	path = HermesRemote
+	url = git@github.com:winny-/HermesRemote.git
